@@ -68,6 +68,6 @@ I am a self-taught data specialist focused on mastering SQL, analytics, and effi
 ---
 
 ## Contact
-- **Email:** yourname@example.com  
+- **Email:** kushagrapandey290425@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/yourprofile  
-- **GitHub:** https://github.com/yourusername  
+- **GitHub:** https://github.com/kushagrapandey-dev
